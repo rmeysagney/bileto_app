@@ -1,11 +1,11 @@
-# 🎟️ Etkinlik App - Etkinlik Takip ve Yönetim Platformu
+# 🎟️ Bileto App - Etkinlik Takip ve Bilet Yönetim Platformu
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Django](https://img.shields.io/badge/Django_REST-4.x-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.style=for-the-badge)
 
-**Etkinlik App**, kullanıcıların şehirlerindeki konser, tiyatro, atölye, spor ve teknoloji gibi çeşitli etkinlikleri keşfetmelerini, takvim üzerinde takip etmelerini, favorilerine eklemelerini ve katılım sağlamalarını kolaylaştıran modern bir etkinlik yönetim platformudur.
+**Bileto App**, kullanıcıların şehirlerindeki konser, tiyatro, atölye, spor ve teknoloji gibi çeşitli etkinlikleri keşfetmelerini, takvim üzerinde takip etmelerini, favorilerine eklemelerini ve bilet/katılım işlemlerini yönetmelerini sağlayan modern bir etkinlik platformudur.
 
 Proje, tam teşekküllü bir **Django REST Framework** arka planı (Backend) ve modern **Flutter** mobil uygulamasından (Frontend) oluşmaktadır.
 
@@ -74,8 +74,8 @@ etkinlik_app/
 
 ### 1. Depoyu Klonlayın
 ```bash
-git clone https://github.com/rmeysagney/etkinlik_app.git
-cd etkinlik_app
+git clone https://github.com/rmeysagney/bileto_app.git
+cd bileto_app
 ```
 
 ---
