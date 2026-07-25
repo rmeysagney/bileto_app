@@ -487,7 +487,7 @@ Detayları incelemek ve katılmak için uygulamaya göz at!
                       const Icon(Icons.confirmation_number_rounded, color: Colors.white, size: 24),
                       const SizedBox(width: 6),
                       Text(
-                        'etkinlik',
+                        'bileto',
                         style: GoogleFonts.outfit(
                           fontWeight: FontWeight.w900,
                           fontSize: 22,

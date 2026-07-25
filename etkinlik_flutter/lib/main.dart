@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider(create: (_) => EventProvider()),
       ],
       child: MaterialApp(
-        title: 'Etkinlik Takip',
+        title: 'Bileto',
         debugShowCheckedModeBanner: false,
 
         // Türkçe Yerelleştirme

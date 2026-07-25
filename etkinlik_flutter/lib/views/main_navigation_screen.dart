@@ -54,7 +54,7 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
                       const Icon(Icons.admin_panel_settings, color: Colors.amberAccent, size: 28),
                       const SizedBox(width: 8),
                       Text(
-                        'etkinlik',
+                        'bileto',
                         style: GoogleFonts.outfit(
                           fontWeight: FontWeight.w900,
                           fontSize: 22,
@@ -198,7 +198,7 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
                     const Icon(Icons.confirmation_number_rounded, color: Colors.white, size: 26),
                     const SizedBox(width: 8),
                     Text(
-                      'etkinlik',
+                      'bileto',
                       style: GoogleFonts.outfit(
                         fontWeight: FontWeight.w900,
                         fontSize: 22,

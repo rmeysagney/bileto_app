@@ -199,7 +199,7 @@ class _LoginRegisterScreenState extends State<LoginRegisterScreen> {
                         ),
                         const SizedBox(width: 12),
                         Text(
-                          'etkinlik',
+                          'bileto',
                           style: GoogleFonts.outfit(
                             fontSize: 38,
                             fontWeight: FontWeight.w900,
@@ -304,7 +304,7 @@ class _LoginRegisterScreenState extends State<LoginRegisterScreen> {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               Text(
-                'etkinlik',
+                'bileto',
                 style: GoogleFonts.outfit(
                   fontSize: 26,
                   fontWeight: FontWeight.w900,
