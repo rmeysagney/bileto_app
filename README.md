@@ -3,7 +3,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Django](https://img.shields.io/badge/Django_REST-4.x-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green.style=for-the-badge)
 
 **Bileto App**, kullanıcıların şehirlerindeki konser, tiyatro, atölye, spor ve teknoloji gibi çeşitli etkinlikleri keşfetmelerini, takvim üzerinde takip etmelerini, favorilerine eklemelerini ve bilet/katılım işlemlerini yönetmelerini sağlayan modern bir etkinlik platformudur.
 
@@ -151,8 +150,3 @@ flutter run
 4. Dalınıza itin (`git push origin feature/YeniOzellik`).
 5. Bir Çekme İsteği (Pull Request) açın.
 
----
-
-## 📜 Lisans
-
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
