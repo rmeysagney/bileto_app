@@ -1,0 +1,32 @@
+# macOS / OS
+.DS_Store
+*.swp
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Python & Django (etkinlik_api)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+db.sqlite3
+media/
+*.log
+
+# Flutter & Dart (etkinlik_flutter)
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+etkinlik_flutter/build/
+etkinlik_flutter/.dart_tool/
+etkinlik_flutter/.flutter-plugins*
